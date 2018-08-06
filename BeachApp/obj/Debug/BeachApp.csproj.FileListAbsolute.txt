@@ -1,0 +1,9 @@
+c:\users\anjan\source\repos\BeachApp\BeachApp\bin\BeachApp.dll.config
+c:\users\anjan\source\repos\BeachApp\BeachApp\bin\BeachApp.dll
+c:\users\anjan\source\repos\BeachApp\BeachApp\bin\BeachApp.pdb
+c:\users\anjan\source\repos\BeachApp\BeachApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anjan\source\repos\BeachApp\BeachApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anjan\source\repos\BeachApp\BeachApp\obj\Debug\BeachApp.csprojResolveAssemblyReference.cache
+c:\users\anjan\source\repos\BeachApp\BeachApp\obj\Debug\BeachApp.csproj.CoreCompileInputs.cache
+c:\users\anjan\source\repos\BeachApp\BeachApp\obj\Debug\BeachApp.dll
+c:\users\anjan\source\repos\BeachApp\BeachApp\obj\Debug\BeachApp.pdb
