@@ -76,6 +76,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Images\Lake1.jpg" />
     <Content Include="Content\Images\View.jpg" />
     <Content Include="Index.html" />
     <Content Include="Web.config" />
